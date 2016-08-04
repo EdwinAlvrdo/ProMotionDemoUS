@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProMotion Application</string>
+    <string name="btn_Aceptar">Aceptar</string>
+    <string name="btn_abrir_ventana">siguiente</string>
+    <string name="welcome_text">Hola, </string>
+</resources>
