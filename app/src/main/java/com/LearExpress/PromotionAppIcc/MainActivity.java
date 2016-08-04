@@ -97,12 +97,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testUpload(){
-
+    //This is the test of Push code
         int i = 1 + 1;
-
         int ii = 2 + 2;
-
         int iii = i + ii;
 
+    }
+    
+    private void testDownload(){
+    //This is the test of Pull code    
+        int i = 1 + 1;
     }
 }
