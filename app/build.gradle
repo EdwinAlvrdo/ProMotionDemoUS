@@ -3,9 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
-
     defaultConfig {
-        applicationId "com.LearExpress.PromotionAppIcc"
+        applicationId 'com.EPDev.PromotionAppIcc'
         minSdkVersion 18
         targetSdkVersion 23
         versionCode 1
@@ -17,6 +16,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
@@ -24,6 +25,11 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.0'
     compile 'com.android.support:design:23.1.0'
-
     compile 'com.estimote:sdk:0.10.+@aar'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:23.0.0'
+    compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
+    compile 'com.google.code.gson:gson:1.7.2'
+    compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
 }

@@ -1,4 +1,4 @@
-package com.LearExpress.PromotionAppIcc;
+package com.estimote.notification;
 
 import org.junit.Test;
 
