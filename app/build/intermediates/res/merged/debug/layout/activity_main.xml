@@ -10,14 +10,10 @@
     android:orientation="vertical"
     tools:context="com.EPDev.PromotionAppIcc.MainActivity">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:text="Flip your beacon on and off if using &quot;Flip to Sleep,&quot; or go in and out of range, and observe the &quot;enter&quot; and &quot;exit&quot; notifications.\r\n\r\nNote that it may take up to 40 seconds with default scan period settings.\r\n\r\nBest of all—it also works when the app is running in the background!" />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="262dp"
+        android:id="@+id/listView" />
 
     <EditText
         android:layout_width="fill_parent"

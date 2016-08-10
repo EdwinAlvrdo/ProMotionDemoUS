@@ -3,4 +3,5 @@
     <string name="btn_Aceptar">Aceptar</string>
     <string name="btn_abrir_ventana">siguiente</string>
     <string name="welcome_text">Estos son mis posts</string>
+    <string name="Tittle_Notification">ProMotion Notification</string>
 </resources>
