@@ -1,6 +1,54 @@
 [
     {
-        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\Android Studio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\Android Studio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\buscar_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\buscar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\usuario.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\share_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\about_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\generic_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\generic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\home_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ajustes_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\ajustes_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\salir_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\salir_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\store_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\store_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_info_not.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\ic_info_not.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\siguiente_pagina.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\siguiente_pagina.png"
+    },
+    {
+        "merged": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\near_ruta_icon.png",
+        "source": "C:\\Users\\soluciones\\Desktop\\uni\\Tesis\\AndroidStudio\\PromotionAppIcc\\app\\src\\main\\res\\mipmap-xhdpi\\near_ruta_icon.png"
     }
 ]
